@@ -41,4 +41,5 @@ Model predictions were accurate, with residuals normally distributed around zero
 ## 🏁 Conclusion
 
 This project demonstrates a comprehensive approach to predicting used car prices using linear regression, ensuring data quality and model accuracy.
+I have attached the csv file containing relevant data used for this model. 
 
